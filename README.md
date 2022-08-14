@@ -1,2 +1,2 @@
 # longyunhust.github.io
-personal   
+This is Yunlong's personal website  
